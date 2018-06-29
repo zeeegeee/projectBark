@@ -1,0 +1,210 @@
+
+
+.button { 
+        -fx-background-color: #64b643 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+       -fx-font: 16px "Sans Serif";
+}
+.label{
+           -fx-font: 12px "Sans Serif";
+
+    
+}
+
+.button:hover, #boxone:hover, #boxtwo:hover, #boxthree:hover, #boxfour:hover, #boxfive:hover, #boxsix:hover
+{
+    
+    -fx-background-color: lightgrey;
+     -fx-text-fill:gray;
+    
+}
+
+.button:pressed{
+        -fx-background-color: whitesmoke;
+
+    
+}
+.button:active
+{
+        -fx-background-color: greys;
+
+    
+}
+
+.root{
+    
+            -fx-background-color: whitesmoke;
+
+}
+
+#top
+{
+    -fx-background-color: FF6600 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+        
+}
+#recentEvents
+{
+        -fx-background-color: #64b643 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+        
+}
+
+
+#logoutButton:hover 
+{
+        -fx-background-color: FF6600 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+    
+}
+
+
+
+#boxone
+{
+      -fx-background-color: B76EB8 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+    
+    
+}
+#boxtwo
+{
+          -fx-background-color: #99CCFF ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+    
+    
+}
+#boxthree
+{
+         -fx-background-color: #7ABA7A ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+}
+#boxfour
+{
+         -fx-background-color: FFCC00 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+    
+}
+#boxfive
+{
+         -fx-background-color: CC99FF ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+}
+#boxsix
+{
+         -fx-background-color: FF6600 ;
+        -fx-text-alignment: center;
+        -fx-text-fill:white;
+        -fx-font-weight: bold;
+    
+        }
+        
+.VIT.table-cell
+{
+    -fx-background:red;
+    
+}
+        
+        
+/*   .table-row-cell.willPayRow .table-cell {
+    -fx-background:  color for cells other than willPayCell in willPayRow ;
+}
+.table-row-cell.wontPayRow .table-cell {
+    -fx-background:  color for cells other than willPayCell in wontPayRow ;
+}
+.table-row-cell.willPayRow .willPayCell {
+    -fx-background:  color for willPayCell in willPayRow ;
+}
+.table-row-cell.wontPayRow .willPayCell {
+    -fx-background:  color for willPayCell in wontPayRow ;
+}     */
+
+
+#likeButton
+{
+        -fx-background-color:red;
+        
+    
+}
+       
+.table-row-cell.VIT
+{   
+            -fx-background:yellowgreen;
+}
+
+
+
+
+  #message{
+
+  -fx-background-color:#64b643;
+  -fx-text-fill:white;
+  -fx-pref-width:780px; 
+  -fx-pref-height:30px; 
+
+  }
+  
+   #secondHand
+  {
+        -fx-stroke: red;
+
+      
+  }
+  
+
+  
+  /*code bellow is from https://stackoverflow.com/questions/46812588/textfield-css-styling-using-javafx*/
+  #text-field {
+    -fx-background-color: -fx-text-box-border, white ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+#text-field:focused {
+    -fx-background-color: -fx-focus-color, white ;
+}
+
+/*end of cited code*/
+
+
+#text
+{
+     -fx-font: 12px "Sans Serif";
+     -fx-text-fill:red;
+
+     
+}
+
+  #message{
+
+  -fx-background-color:whitesmoke;
+  -fx-text-fill:black;
+  -fx-pref-width:780px; 
+  -fx-pref-height:30px; 
+
+  }
+    #yourmessage{
+
+  -fx-background-color:#64b643;
+  -fx-text-fill:white;
+  -fx-pref-width:780px; 
+  -fx-pref-height:30px; 
+
+  }

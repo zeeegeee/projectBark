@@ -1,0 +1,22 @@
+
+
+.root{
+    
+        -fx-background-color: white;
+        -fx-background-radius: 8px;
+
+}
+
+.inputSection {
+    -fx-background-color : #E1F5FE;
+    }
+
+.button {
+    -fx-background-color : #64b643;
+    -fx-text-fill        : #E1F5FE;
+    -fx-font-weight      : 900;
+    }
+
+.button:hover {
+    -fx-background-color : lightgrey;
+    }
