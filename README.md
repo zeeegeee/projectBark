@@ -1,6 +1,6 @@
 # projectBark
 
-Capstone School project utilizing java, javafx and sql, the main objective of this application is to allow volunteers to checkin and checkout for their hours, sign up for events, add animals and customers and facilitate adoptions. The application allows admins to view special reports to help overlook the shelter, accept volunteers, and create events. 
+Capstone School project utilizing Java, JavaFX and SQL. The main objective of this application is to allow volunteers to checkin and checkout for their hours, sign up for events, add animals and customers and facilitate adoptions. The application allows admins to view special reports to help overlook the shelter, accept volunteers, and create events. 
 
 This is the main page of the application.
 
