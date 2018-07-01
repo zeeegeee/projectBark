@@ -30,6 +30,20 @@ The admin can view all volunteers depending on their status, the green rows repr
 Both the user and the admin can checkin and checkout
 ![alt text](https://github.com/zeeegeee/projectBark/blob/master/screenshots/Screen%20Shot%202018-07-01%20at%2012.03.50%20PM.png)
 
+This is the page which allows admin to create events
+![alt text](https://github.com/zeeegeee/projectBark/blob/master/screenshots/Screen%20Shot%202018-07-01%20at%2012.04.08%20PM.png)
+
+The reports admin and volunteers can see 
+![alt text](https://github.com/zeeegeee/projectBark/blob/master/screenshots/Screen%20Shot%202018-07-01%20at%2012.04.19%20PM.png)
+
+This is the social page, it allows users to post about events they've participated in, post about their daily activities, comment on others posts, and like them. The other aspect of the social page is the "Barkbox", it is a groupchat which allows interactions between other volunteers
+![alt text](https://github.com/zeeegeee/projectBark/blob/master/screenshots/Screen%20Shot%202018-07-01%20at%2012.04.48%20PM.png)
+
+
+
+
+
+
 
 
 
